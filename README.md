@@ -7,3 +7,6 @@ Bir .txt dosyası içerisindeki kelimeleri sayarak bağlı listeye adet olarak b
 * Bağlı liste kelime ve adet bilgisi içermelidir. Bağlı liste içerisinde bir kelime sadece bir kez bulunabilir.
 * Bağlı liste büyükten küçüğe doğru sıralanmalıdır.
 * Bağlı listede başa, sona ve araya ekleme metotlarının tümü kullanılmak zorundadır. Diziler kullanılarak yapılan projeler değerlendirilmeye alınmayacaktır.
+
+### Özet
+Bir .txt dosyasından okunan metni kelimelere bölerek metin içerisindeki frekansı hesaplanır ve frekans değerine göre bağlı liste veri yapısının başına, sonuna veya herhangi bir yerine büyükten küçüğe bir yapı olacak şekilde eklenir.
