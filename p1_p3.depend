@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1607867977 source:c:\users\mustafa\desktop\p1_p3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1608553164 source:c:\users\mustafa\desktop\musti\2. sýnýf\2. sýnýf güz dönemi\programlama laboratuvarý 1\proje 3 - doktor\p1_p3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
